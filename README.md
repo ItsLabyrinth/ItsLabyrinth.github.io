@@ -1,0 +1,2 @@
+# ItsLabyrinth.github.io
+WizFix
